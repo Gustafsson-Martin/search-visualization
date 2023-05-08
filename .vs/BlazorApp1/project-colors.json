@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15ff4a5e-8efe-407b-856f-4e181457cac7": {
+      "ProjectGuid": "15ff4a5e-8efe-407b-856f-4e181457cac7",
+      "DisplayName": "BlazorApp1",
+      "ColorIndex": 0
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Script Documents",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
